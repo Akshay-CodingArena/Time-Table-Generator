@@ -20,4 +20,20 @@ login with the cridentials username: test, password : test
 
 Note: there is already some data entered in the database for your testing purposes if you want you can enter your own by deleting the existing from phpmyadmin.
       do not delete the table but only the entries in them
-  
+      
+Now to begin first you need to insert all the classe names of the institution for eg Btech Cse 1st year ,Btech Cse 2nd Year, Btech Mechanical ....etc.
+
+Then after enter the subjects name along with its desired load. Here load means the no. of times the subject lectures to be assigned in a week, like Maths 4 times a week.
+
+Then register the faculty members along with their subjects and classes they taught.
+
+After that add the labs along with their rooms. As one room is used to take more than one lab.
+
+Now click on generate time table and wait till the loading finish
+
+Then you can view the time table both for the teacher and classes.
+
+Thanks
+
+You can also connect with me at linkedin at www.linkedin.com/in/akshay-kumar-9116bb163
+Peace On Happy Coding 😊
