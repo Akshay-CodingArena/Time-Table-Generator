@@ -1,5 +1,7 @@
 # Time-Table-Generator
 
+Btech Second Year Project By Akshay Kumar.
+
 This is a web application which uses Html,Css,Php,Sql
 
 To open the project first install a web server : Wampserver from https://sourceforge.net/projects/wampserver/
